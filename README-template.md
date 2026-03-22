@@ -14,8 +14,8 @@ El objetivo es aplicar los conocimientos sobre **componentes**, **maquetación**
 
 ### 🔗 Enlaces del proyecto
 
-- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/)
-- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://)
+- **Repositorio en GitHub:** [Repositorio](https://github.com/Kellyjudith/QR-Code-Component-)
+- **Sitio desplegado (opcional):** [Vercel](https://qr-code-component-q3fx39zob-kellyjudiths-projects.vercel.app/)
 
 ---
 
